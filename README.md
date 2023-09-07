@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-These are the 11 code challenges I have completed:
+These are the 12 code challenges I have completed:
 ## Fundamentals
 
 - [Counting Duplicates](./Katas/counting-duplicates)
@@ -14,6 +14,7 @@ These are the 11 code challenges I have completed:
 - [Array.diff](./Katas/array-dot-diff)
 ## Algorithms
 
+- [Roman Numerals Encoder](./Katas/roman-numerals-encoder)
 - [Bit Counting](./Katas/bit-counting)
 - [Multiples of 3 or 5](./Katas/multiples-of-3-or-5)
 ## Bug Fixes
