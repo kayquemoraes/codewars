@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 13 code challenges I have completed:
+These are the 14 code challenges I have completed:
 ## Fundamentals
 
+- [Sum of two lowest positive integers](./Katas/sum-of-two-lowest-positive-integers)
 - [Square(n) Sum](./Katas/square-n-sum)
 - [Counting Duplicates](./Katas/counting-duplicates)
 - [Ones and Zeros](./Katas/ones-and-zeros)
