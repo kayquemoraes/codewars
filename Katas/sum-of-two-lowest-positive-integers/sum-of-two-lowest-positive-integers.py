@@ -1,22 +1,10 @@
 def sum_two_smallest_numbers(numbers):
-    
-    low = numbers[0]
-    more = numbers[0]
-    second = numbers[0]
-    
-    for i in numbers:
-        if i < low:
-            low = i
-    
-    for i in numbers:
-        if i > more:
-            more = i
-    
-    for i in numbers:
-        if i> low and i<more:
-            more = i
-            second = more
-    
-    return low + second
-        
-        
+    smallest1 = None
+    smallest2 = None 
+    for n in numbers: 
+        if not smallest1 or n < smallest1: 
+            smallest2 = smallest1
+            smallest1 = n 
+        elif not smallest2 or n < smallest2: 
+            smallest2 = n 
+    return smallest1 + smallest2
