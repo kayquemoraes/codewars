@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-These are the 15 code challenges I have completed:
+These are the 16 code challenges I have completed:
 ## Fundamentals
 
 - [Replace With Alphabet Position](./Katas/replace-with-alphabet-position)
@@ -25,6 +25,6 @@ These are the 15 code challenges I have completed:
 
 ## Refactoring
 
-
+- [Is n divisible by x and y?](./Katas/is-n-divisible-by-x-and-y)
 ## Puzzles
 
