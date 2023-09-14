@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 18 code challenges I have completed:
+These are the 19 code challenges I have completed:
 ## Fundamentals
 
+- [Exes and Ohs](./Katas/exes-and-ohs)
 - [Playing with digits](./Katas/playing-with-digits)
 - [Beginner Series #3 Sum of Numbers](./Katas/beginner-series-number-3-sum-of-numbers)
 - [Replace With Alphabet Position](./Katas/replace-with-alphabet-position)
