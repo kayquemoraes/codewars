@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 16 code challenges I have completed:
+These are the 17 code challenges I have completed:
 ## Fundamentals
 
+- [Beginner Series #3 Sum of Numbers](./Katas/beginner-series-number-3-sum-of-numbers)
 - [Replace With Alphabet Position](./Katas/replace-with-alphabet-position)
 - [Sum of two lowest positive integers](./Katas/sum-of-two-lowest-positive-integers)
 - [Square(n) Sum](./Katas/square-n-sum)
