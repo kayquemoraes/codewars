@@ -1,6 +1,6 @@
 # Index of katas by its category/discipline
 
-These are the 19 code challenges I have completed:
+These are the 20 code challenges I have completed:
 ## Fundamentals
 
 - [Exes and Ohs](./Katas/exes-and-ohs)
@@ -20,6 +20,7 @@ These are the 19 code challenges I have completed:
 - [Array.diff](./Katas/array-dot-diff)
 ## Algorithms
 
+- [Pete, the baker](./Katas/pete-the-baker)
 - [Roman Numerals Encoder](./Katas/roman-numerals-encoder)
 - [Bit Counting](./Katas/bit-counting)
 - [Multiples of 3 or 5](./Katas/multiples-of-3-or-5)
