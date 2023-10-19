@@ -1,8 +1,9 @@
 # Index of katas by its category/discipline
 
-These are the 21 code challenges I have completed:
+These are the 22 code challenges I have completed:
 ## Fundamentals
 
+- [Sum without highest and lowest number](./Katas/sum-without-highest-and-lowest-number)
 - [Count by X](./Katas/count-by-x)
 - [Exes and Ohs](./Katas/exes-and-ohs)
 - [Playing with digits](./Katas/playing-with-digits)
